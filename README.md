@@ -21,13 +21,3 @@ Bu projeyi tamamen kendi kisisel Ingilizce ogrenim surecim icin gelistirdim. Piy
 - Storage: AsyncStorage
 - Diger Kutuphaneler: expo-haptics, Animated API
 
-## Kurulum (Developer)
-
-Projeyi test etmek veya gelistirmek isterseniz:
-
-```bash
-git clone https://github.com/SAMETKUCUK1/english-flashcards-app.git
-cd english-flashcards-app
-npm install
-npx expo start
-```
